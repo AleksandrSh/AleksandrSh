@@ -7,10 +7,10 @@
 🧪 I code a bit, write often, and debug hiring pipelines for fun  
 
 🔗 **Links**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alexshabanov/)  
-- ✍️ [Medium Articles](https://medium.com/@alexshabanov)  
-- 🧰 [GitHub Bookmarklet for Repo Contributors](https://github.com/alexshabanov/github-contributors-bookmarklet)  
-- 📊 [Screening Simulation Dashboard](https://github.com/alexshabanov/screening-simulation-dashboard)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aleksandr-shabanov/) 
+- ✍️ [Medium Articles](https://medium.com/@alshabanov)  
+- 🧰 [GitHub Bookmarklet for Repo Contributors](https://github.com/AleksandrSh/github-contributors-bookmarklet)
+- 📊 [Screening Simulation Dashboard](https://github.com/AleksandrSh/screening-simulation)
 
 <!--
 **AleksandrSh/AleksandrSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
