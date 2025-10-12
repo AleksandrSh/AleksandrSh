@@ -1,6 +1,17 @@
-I'm a technical recruiter, sourcer and Talent Acquisition manager with about 15 years of experience in the field. Besides the usual recruiting stuff, I write basic scripts in JavaScript to save time on the repetitive actions in the browser, write SQL queries, create recruiting ChatBots, and always look for a way to streamline the process.
+👋 Hi, I’m **Alex Shabanov**  
+🎯 Senior Tech Recruiter @ Cisco | 19+ yrs in high‑tech hiring  
+🤖 Passionate about AI, silicon, sourcing automation & data‑driven hiring  
+🧠 Building tools, frameworks, and ideas for smarter recruiting  
+🌍 Based in Israel | 🇷🇺→🇮🇱 | Global mindset  
+📊 I explore false negatives, screening metrics, labor paradoxes & recruiting analytics  
+🧪 I code a bit, write often, and debug hiring pipelines for fun  
 
-You're welcome to contact me with any questions - https://www.linkedin.com/in/aleksandr-shabanov/
+🔗 **Links**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alexshabanov/)  
+- ✍️ [Medium Articles](https://medium.com/@alexshabanov)  
+- 🧰 [GitHub Bookmarklet for Repo Contributors](https://github.com/alexshabanov/github-contributors-bookmarklet)  
+- 📊 [Screening Simulation Dashboard](https://github.com/alexshabanov/screening-simulation-dashboard)
+
 <!--
 **AleksandrSh/AleksandrSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
