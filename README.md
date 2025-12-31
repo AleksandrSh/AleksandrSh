@@ -11,6 +11,7 @@
 - ✍️ [Medium Articles](https://medium.com/@alshabanov)  
 - 🧰 [GitHub Bookmarklet for Repo Contributors](https://github.com/AleksandrSh/github-contributors-bookmarklet)
 - 📊 [Screening Simulation Dashboard](https://github.com/AleksandrSh/screening-simulation)
+- 🌍 [Facebook People Search by Country – Bookmarklet](https://github.com/AleksandrSh/facebook-people-search-by-country)  
 
 <!--
 **AleksandrSh/AleksandrSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
